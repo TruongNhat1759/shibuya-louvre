@@ -1,0 +1,18 @@
+@charset "UTF-8";
+@import "base.css";
+@import "fonts.css";
+@import "styles.css";
+@import "responsive.css";
+@import "style_sp.css";
+@import "under.css";
+@import "under_responsive.css";
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,300|Noto+Serif+JP:300,400,500,600&display=swap&subset=japanese');
+@import url('https://fonts.googleapis.com/css?family=Arizonia|Cinzel|Raleway:300|Source+Sans+Pro&display=swap');
+.font01 {
+ font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Noto Serif JP', serif;
+font-family: 'Cinzel', serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Arizonia', cursive;
+font-family: 'Raleway', sans-serif;
+}
